@@ -1,0 +1,117 @@
+,features
+0,companyType_Accounting
+1,companyType_Apparel & Fashion
+2,companyType_Architecture & Planning
+3,companyType_Arts and Crafts
+4,companyType_Automotive
+5,companyType_Aviation & Aerospace
+6,companyType_Biotechnology
+7,companyType_Broadcast Media
+8,companyType_Building Materials
+9,companyType_Business Supplies and Equipment
+10,companyType_Chemicals
+11,companyType_Civic & Social Organization
+12,companyType_Civil Engineering
+13,companyType_Commercial Real Estate
+14,companyType_Computer & Network Security
+15,companyType_Computer Games
+16,companyType_Computer Hardware
+17,companyType_Computer Software
+18,companyType_Construction
+19,companyType_Consumer Electronics
+20,companyType_Consumer Goods
+21,companyType_Consumer Services
+22,companyType_Cosmetics
+23,companyType_Dairy
+24,companyType_Design
+25,companyType_E-Learning
+26,companyType_Education Management
+27,companyType_Electrical/Electronic Manufacturing
+28,companyType_Entertainment
+29,companyType_Environmental Services
+30,companyType_Events Services
+31,companyType_Facilities Services
+32,companyType_Farming
+33,companyType_Financial Services
+34,companyType_Fine Art
+35,companyType_Food & Beverages
+36,companyType_Food Production
+37,companyType_Furniture
+38,companyType_Gambling & Casinos
+39,companyType_Government Administration
+40,companyType_Graphic Design
+41,"companyType_Health, Wellness and Fitness"
+42,companyType_Higher Education
+43,companyType_Hospital & Health Care
+44,companyType_Hospitality
+45,companyType_Human Resources
+46,companyType_Import and Export
+47,companyType_Industrial Automation
+48,companyType_Information Technology and Services
+49,companyType_Internet
+50,"companyType_Leisure, Travel & Tourism"
+51,companyType_Luxury Goods & Jewelry
+52,companyType_Machinery
+53,companyType_Management Consulting
+54,companyType_Market Research
+55,companyType_Marketing and Advertising
+56,companyType_Mechanical or Industrial Engineering
+57,companyType_Media Production
+58,companyType_Medical Devices
+59,companyType_Medical Practice
+60,companyType_Mental Health Care
+61,companyType_Museums and Institutions
+62,companyType_Music
+63,companyType_Newspapers
+64,companyType_Nonprofit Organization Management
+65,companyType_Oil & Energy
+66,companyType_Online Media
+67,companyType_Packaging and Containers
+68,companyType_Performing Arts
+69,companyType_Pharmaceuticals
+70,companyType_Photography
+71,companyType_Plastics
+72,companyType_Political Organization
+73,companyType_Primary/Secondary Education
+74,companyType_Printing
+75,companyType_Professional Training & Coaching
+76,companyType_Public Policy
+77,companyType_Public Relations and Communications
+78,companyType_Publishing
+79,companyType_Real Estate
+80,companyType_Recreational Facilities and Services
+81,companyType_Renewables & Environment
+82,companyType_Research
+83,companyType_Restaurants
+84,companyType_Retail
+85,companyType_Security and Investigations
+86,companyType_Shipbuilding
+87,companyType_Sporting Goods
+88,companyType_Sports
+89,companyType_Staffing and Recruiting
+90,companyType_Telecommunications
+91,companyType_Textiles
+92,companyType_Think Tanks
+93,companyType_Transportation/Trucking/Railroad
+94,companyType_Wholesale
+95,companyType_Wine and Spirits
+96,companyType_Writing and Editing
+97,employeesCount_1-10 employees
+98,employeesCount_11-50 employees
+99,employeesCount_201-500 employees
+100,employeesCount_501-1000 employees
+101,employeesCount_51-200 employees
+102,employeesCount_Myself Only
+103,day_Friday
+104,day_Monday
+105,day_Sunday
+106,day_Thursday
+107,day_Wednesday
+108,month_April
+109,month_February
+110,month_March
+111,hour_9
+112,hour_10
+113,hour_16
+114,hour_21
+115,hour_22
