@@ -25,7 +25,7 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt 
 ```
-```
+
 + Train the model and get predictions
 ```
 python3  app/src/train.py
@@ -41,6 +41,7 @@ python3  app/src/inference.py path_of_test_data
 + Clone the repository 
 
 + Build Docker Image
+
 ```
 docker build . -t ml_project
 ```
